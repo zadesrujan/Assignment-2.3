@@ -1,0 +1,8 @@
+JIT(Just In Time)
+1.In Java Programming language JIT is a Program that turns Java bytecode into instructions that can be sent directly to Processor.
+2.JIT is a Part of JVM(Java Virtual Machine).
+3.JIT improves the performance of the Java applications.
+4.JIT compiler comes with the virtual machine and is used optionally.
+5.JIT compilation does require processor time and memory usage.
+6.JIT compiles the code when it is needed but not before runtime.
+7.The concept of JIT is well known not only in Java but also other languages like Ruby,.NET,C# etc.,
